@@ -1,0 +1,25 @@
+/*
+* @Author: asus
+* @Date:   2018-05-03 09:45:49
+* @Last Modified by:   asus
+* @Last Modified time: 2018-05-03 10:02:26
+*/
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	font-size: 16px;
+	font-family: "微软雅黑","宋体";
+}
+a{
+	text-decoration: none;
+}
+body{
+	background: #fff;
+}
+/* 兼容ie6-8图片出现蓝色边框的问题 */
+img{
+	border: none;
+	display: block;
+	width: 100%;
+}
